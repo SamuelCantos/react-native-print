@@ -10,9 +10,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "electron-pos-printer": "^1.2.4",
     "react": "18.0.0",
     "react-native": "0.69.4",
-    "react-native-bluetooth-escpos-printer": "^0.0.5",
     "react-native-bluetooth-serial-next": "^1.2.3"
   },
   "devDependencies": {

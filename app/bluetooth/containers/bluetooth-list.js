@@ -13,7 +13,7 @@ import Subtitle from '../components/subtitle';
 import BluetoothSerial from 'react-native-bluetooth-serial-next';
 import Device from '../components/device';
 import { useState } from 'react';
-import SamplePrint from '../components/sample-print';
+
 
 
 function BluetoothList(props) {
